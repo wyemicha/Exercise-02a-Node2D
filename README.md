@@ -1,6 +1,8 @@
 # Exercise-02a-Node2D
 Exercise for MSCH-C220, 3 February 2021
 
+A demonstration video is available here: [https://youtu.be/kqMbP2TV9H0](https://youtu.be/kqMbP2TV9H0).
+
 This exercise is the first opportunity for you to get your feet wet with Godot. Its purpose is to introduce you to the notions of 2D translation, rotation, and scale and for you to see how they operate in Godot. 
 
 First, be sure you have downloaded and installed the appropriate version of [Godot 3.2.3](https://godotengine.org/download) for your computer. Most likely, you will want the 64-bit version (only install the 32-bit version if the 64-bit doesn't run). 
